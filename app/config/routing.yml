@@ -1,0 +1,4 @@
+strawburry_user:
+    resource: "@StrawburryUserBundle/Resources/config/routing.yml"
+    prefix:   /
+

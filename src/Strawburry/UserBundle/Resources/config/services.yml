@@ -1,0 +1,4 @@
+services:
+#    strawburry_user.example:
+#        class: Strawburry\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
